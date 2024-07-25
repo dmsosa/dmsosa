@@ -54,6 +54,8 @@ Ich bin eine vehement selbst gelernt Software Entwlicker.
   <img align="left" alt="dmsosa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dmsosa&show_icons=true&hide_border=false&title_color=03fc6b&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 
+
+
 <h2>📊 Stats and Activity</h2>
 
   <h3>🔥 Streak Stats</h3>

@@ -49,17 +49,12 @@ Ich bin eine vehement selbst gelernt Software Entwlicker.
 - <img align="left" alt="Autodoc Logo" width="30px" style="padding-right:4px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" /> ALLE meine Projekte sind von Grund auf gerstellten, durch den Projekte anderer inspiriert, aber immer mit meine eigene Soße darin.
 
 
-<details>
     <!-- https://github.com/anuraghazra/github-readme-stats -->
-  <summary>:zap: GitHub Stats</summary>
+  <h3>:zap: GitHub Stats</h3>
   <img align="left" alt="dmsosa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dmsosa&show_icons=true&hide_border=false&title_color=03fc6b&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-</details>
 
-
-
-<details> 
-  <summary><h2>📊 Stats and Activity</h2></summary>
+<h2>📊 Stats and Activity</h2>
 
   <h3>🔥 Streak Stats</h3>
 
@@ -84,7 +79,6 @@ Ich bin eine vehement selbst gelernt Software Entwlicker.
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="dmsosa's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=dmsosa&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-</details>
 
 🕶️: über mich
 - 🔭 Ich arbeite derzeit an Freelance für WebSeiten und REST APIs

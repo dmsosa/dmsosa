@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=waving&color=0:ffae00,100:09dbd1&height=120&section=header
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffae00,100:09dbd1&height=120&section=header" width="100%"/>
 
 # Hallo Welt 👋, My name is Durian.
 **`Digital Craftsman (Developer/Creator)`**

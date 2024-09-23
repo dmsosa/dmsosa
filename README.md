@@ -9,7 +9,7 @@
 
 Ich bin eine vehement selbst gelernt Software Entwlicker. 
 
-* Meine WebSeiten können Sie [hier](https://github.com/dmsosa/dmblog) finden.
+* Meine WebSeiten können Sie [hier](https://dmsosa.github.io/dmblog) finden.
 * Frag mich irgendetwas [hier](mailto:dmsosa21@outlook.com)
 
    <p align="left">

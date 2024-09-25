@@ -1,15 +1,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffae00,100:09dbd1&height=120&section=header" width="100%"/>
 
-# Hallo Welt 👋, My name is Durian.
-<p align="center">**`Digital Craftsman (Developer/Creator)`**</p>
+<h1>Hallo Welt 👋, Mein Name ist Durian.</h1> 
+<p align="center">
+   Ich bin eine vehement selbst gelernt Software Entwlicker. 
+</p>
+
 
 <p align="center">
    <a href="https://github.com/DenverCoder1/readme-typing-svg">
-     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Always%20learning%20new%20things&font=consolas%20Code&center=true&width=440&height=45&color=20e884&vCenter=true&pause=1000&size=24"/>
+     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Always%20learning%20new%20things&font=consolas%20Code&center=true&width=200&height=45&color=20e884&vCenter=true&pause=1000&size=18"/>
    </a>
 </p>
 
-Ich bin eine vehement selbst gelernt Software Entwlicker. 
 
 * Meine WebSeiten können Sie [hier](https://dmsosa.github.io/dmblog) finden.
 * Frag mich irgendetwas [hier](mailto:dmsosa21@outlook.com)

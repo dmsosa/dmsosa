@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffae00,100:09dbd1&height=120&section=header" width="100%"/>
 
-<h1>Hallo Welt 👋, Mein Name ist Durian.</h1> 
+<h1 align="center">Hallo Welt 👋, Mein Name ist Durian.</h1> 
 <p align="center">
    Ich bin eine vehement selbst gelernt Software Entwlicker. 
 </p>
@@ -13,8 +13,6 @@
 </p>
 
 
-* Meine WebSeiten können Sie [hier](https://dmsosa.github.io/dmblog) finden.
-* Frag mich irgendetwas [hier](mailto:dmsosa21@outlook.com)
 
    <p align="left">
 [![LinkedIn Profile](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&labelColor=2667d1&logoColor=white)](https://www.instagram.com/duvi_official/?hl=de)

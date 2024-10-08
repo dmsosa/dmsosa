@@ -10,24 +10,37 @@
    </a>
 </p>
 
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;margin-left: 250px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<p align="center"><img align="center" alt="Spring" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> <img align="center" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="center" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="center" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></p>
+---
 
-<p align="left">
-   
-[![LinkedIn Profile](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&labelColor=2667d1&logoColor=white)](https://www.instagram.com/duvi_official/?hl=de)
-   
-[![Github Follow](https://custom-icon-badges.demolab.com/github/followers/dmsosa?color=gray&labelColor=black&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/dmsosa?tab=followers)
+# Über mich:
 
-[![Instagram Follow](https://img.shields.io/badge/INSTAGRAM-FOLLOW-deeppink?style=for-the-badge&logo=instagram&labelColor=b00c4e&logoColor=white)](https://www.instagram.com/duvi_official/?hl=de)
-
-[![Github Stars](https://custom-icon-badges.demolab.com/github/stars/dmsosa?color=048037&style=for-the-badge&labelColor=2c9959&logo=star)](https://github.com/dmsosa?tab=repositories&sort=stargazers)
-</p>
+Als leidenschaftliche, selbstgelernte Softwareentwickler, habe ich mir mehr zu den Backend gebeugt, seit 4 Jahren durch autodidaktische Studien und praxisorientierte Projekte, aber da ich musste von Grund auf und allein meine Projekte durchführen, habe ich ein tiefes Verständnis für die Programmierung und Softwareentwicklung beides fur das Frontend als auch Backend erarbeitet. Mit einem starken Fokus auf Problemlösung, Flexibilität und einem kontinuierlichen Lernwillen bin ich stets bestrebt, qualitativ hochwertige Softwarelösungen zu entwickeln. Ich bin überzeugt, dass meine Fähigkeit, mich schnell in neue Technologien wohl zu finden und innovative Ansätze zu entwickeln, meine Stärke ist.
 
 ---
-### 🧰 Sprachen und Werkzeuge
+
+# Hauptprojekete
+
+## Das Dmblog 🍎
+Schau mal das [Repo](https://github.com/dmsosa/dmblog) an
+
+## Microservices Budget App 💸
+Schau mal das [Repo](https://github.com/dmsosa/microservices) an
+
+## Das Jadassa Seite 🤖
+
+
+Schau mal das [Repo](https://github.com/dmsosa/jadassa-page) an
+--oder--
+Besuchen die Seite auf: 
+https://dmsosa.github.io/jadassa-page/
+
+# Frameworks & Bibliotheken:
+Node.js, Express, React, Spring
+
+# 🧰 Sprachen und Werkzeuge
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -44,11 +57,27 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />    
+
 <br />
 
 #
 
-### Connect with me:
+## Kontaktieren Sie mich:
+
+## Folgen
+
+<p align="left">
+   
+[![LinkedIn Profile](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&labelColor=2667d1&logoColor=white)](https://www.instagram.com/duvi_official/?hl=de)
+   
+[![Github Follow](https://custom-icon-badges.demolab.com/github/followers/dmsosa?color=gray&labelColor=black&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/dmsosa?tab=followers)
+
+[![Instagram Follow](https://img.shields.io/badge/INSTAGRAM-FOLLOW-deeppink?style=for-the-badge&logo=instagram&labelColor=b00c4e&logoColor=white)](https://www.instagram.com/duvi_official/?hl=de)
+
+[![Github Stars](https://custom-icon-badges.demolab.com/github/stars/dmsosa?color=048037&style=for-the-badge&labelColor=2c9959&logo=star)](https://github.com/dmsosa?tab=repositories&sort=stargazers)
+
+</p>
+
 - <img align="left" alt="Autodoc Logo" width="30px" style="padding-right:4px;" src="https://github.com/dmsosa/dmsosa/assets/112881114/96375a2d-124a-4f94-88b0-d6b57e5fe93e"/> Derzeite arbeite ich bei AUTODOC ja... gar nichst mit Code zu tun, aber alles muss irgendwo starten, oder?
   
 - <img align="left" alt="Autodoc Logo" width="30px" style="padding-right:4px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" /> Backend developer

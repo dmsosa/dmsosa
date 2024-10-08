@@ -26,11 +26,11 @@ Als selbstgelernte Softwareentwickler habe ich mir mehr zu den Backend gebeugt, 
 
 <p align="center">
    <a href="https://github.com/DenverCoder1/readme-typing-svg">
-     <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%87I%20have%20been%20inspired%20by%20the%20best%27s%20projects%F0%9F%91%87&font=consolas%20Code&center=true&width=440&height=45&color=c41f25&vCenter=true&pause=1000&size=15"/>
+     <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%87I%20have%20been%20inspired%20by%20the%20best%27s%20projects%F0%9F%91%87&font=consolas%20Code&center=true&width=440&height=45&color=c41f25&vCenter=true&pause=10000&size=15"/>
    </a>
 </p>
 
-# Hauptprojekete
+# Hauptprojekte
 
 ## Das Dmblog 🍎
 
@@ -43,6 +43,14 @@ Als selbstgelernte Softwareentwickler habe ich mir mehr zu den Backend gebeugt, 
 **Schau mal das [Repo](https://github.com/dmsosa/dmblog) an**
 
 ## Microservices Budget App 💸
+
+* Technologien: React, TypeScript, Spring, PostgreSQL
+  
+* Beschreibung: Entwicklung einer wahres Blog mit Funktionen wie das Schreiben sowie das Liken und Kommentieren von Artikeln. Benutzer können sich anmelden und ihre eigenen Artikeln schreiben sowie einander zu folgen. Es war durch [realworld von Thinkster](https://github.com/gothinkster/realworld) inspiriert.
+  
+* Ergebnis: Die App ermöglichte es den Nutzern, ihre Aufgaben auf verschiedenen Geräten zu verwalten und bot eine einfache und schnelle Benutzeroberfläche.
+  
+
 **Schau mal das [Repo](https://github.com/dmsosa/microservices) an**
 
 ## Das Jadassa Seite 🤖
@@ -71,7 +79,6 @@ Node.js, Express, React, Spring
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />    
 
 <br />
@@ -82,15 +89,10 @@ Node.js, Express, React, Spring
 
 ## Folgen
 
-<p align="left">
+<!-- BADGES SECTION -->
+<p align="center">
    
-[![LinkedIn Profile](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&labelColor=2667d1&logoColor=white)](https://www.instagram.com/duvi_official/?hl=de)
-   
-[![Github Follow](https://custom-icon-badges.demolab.com/github/followers/dmsosa?color=gray&labelColor=black&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/dmsosa?tab=followers)
-
-[![Instagram Follow](https://img.shields.io/badge/INSTAGRAM-FOLLOW-deeppink?style=for-the-badge&logo=instagram&labelColor=b00c4e&logoColor=white)](https://www.instagram.com/duvi_official/?hl=de)
-
-[![Github Stars](https://custom-icon-badges.demolab.com/github/stars/dmsosa?color=048037&style=for-the-badge&labelColor=2c9959&logo=star)](https://github.com/dmsosa?tab=repositories&sort=stargazers)
+[![LinkedIn Profile](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&labelColor=2667d1&logoColor=white)](https://www.instagram.com/duvi_official/?hl=de) [![Github Follow](https://custom-icon-badges.demolab.com/github/followers/dmsosa?color=gray&labelColor=black&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/dmsosa?tab=followers) [![Instagram Follow](https://img.shields.io/badge/INSTAGRAM-FOLLOW-deeppink?style=for-the-badge&logo=instagram&labelColor=b00c4e&logoColor=white)](https://www.instagram.com/duvi_official/?hl=de) [![Github Stars](https://custom-icon-badges.demolab.com/github/stars/dmsosa?color=048037&style=for-the-badge&labelColor=2c9959&logo=star)](https://github.com/dmsosa?tab=repositories&sort=stargazers) 
 
 </p>
 

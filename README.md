@@ -4,23 +4,11 @@
 <p align="center">
    Ich bin eine vehement selbst gelernt Software Entwlicker. 
 </p>
-
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;margin-left:auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-
-
-
-
-
 <p align="center">
    <a href="https://github.com/DenverCoder1/readme-typing-svg">
      <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Always%20learning%20new%20things&font=consolas%20Code&center=true&width=440&height=45&color=20e884&vCenter=true&pause=1000&size=18"/>
    </a>
 </p>
-
-
 
 <p align="left">
    

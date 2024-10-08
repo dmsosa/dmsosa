@@ -5,6 +5,12 @@
    Ich bin eine vehement selbst gelernt Software Entwlicker. 
 </p>
 
+<ul>
+   <li><img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></li>
+   <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+   <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+   <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> 
+</ul>
 
 <p align="center">
    <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -14,12 +20,16 @@
 
 
 
-   <p align="left">
+<p align="left">
+   
 [![LinkedIn Profile](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&labelColor=2667d1&logoColor=white)](https://www.instagram.com/duvi_official/?hl=de)
+   
 [![Github Follow](https://custom-icon-badges.demolab.com/github/followers/dmsosa?color=gray&labelColor=black&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/dmsosa?tab=followers)
+
 [![Instagram Follow](https://img.shields.io/badge/INSTAGRAM-FOLLOW-deeppink?style=for-the-badge&logo=instagram&labelColor=b00c4e&logoColor=white)](https://www.instagram.com/duvi_official/?hl=de)
+
 [![Github Stars](https://custom-icon-badges.demolab.com/github/stars/dmsosa?color=048037&style=for-the-badge&labelColor=2c9959&logo=star)](https://github.com/dmsosa?tab=repositories&sort=stargazers)
-   </p>
+</p>
 
 ---
 ### 🧰 Sprachen und Werkzeuge

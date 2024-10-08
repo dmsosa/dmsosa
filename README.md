@@ -6,7 +6,7 @@
 </p>
 <p align="center">
    <a href="https://github.com/DenverCoder1/readme-typing-svg">
-     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Always%20learning%20new%20things&font=consolas%20Code&center=true&width=440&height=45&color=20e884&vCenter=true&pause=1000&size=18"/>
+     <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%87I%20have%20been%20inspired%20by%20the%20best%27s%20projects%F0%9F%91%87&font=consolas%20Code&center=true&width=440&height=45&color=20e884&vCenter=true&size=15"/>
    </a>
 </p>
 

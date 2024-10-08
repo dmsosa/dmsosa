@@ -16,25 +16,40 @@
 
 ---
 
-# Über mich:
+# Über mich: 🧏
 
-Als leidenschaftliche, selbstgelernte Softwareentwickler, habe ich mir mehr zu den Backend gebeugt, seit 4 Jahren durch autodidaktische Studien und praxisorientierte Projekte, aber da ich musste von Grund auf und allein meine Projekte durchführen, habe ich ein tiefes Verständnis für die Programmierung und Softwareentwicklung beides fur das Frontend als auch Backend erarbeitet. Mit einem starken Fokus auf Problemlösung, Flexibilität und einem kontinuierlichen Lernwillen bin ich stets bestrebt, qualitativ hochwertige Softwarelösungen zu entwickeln. Ich bin überzeugt, dass meine Fähigkeit, mich schnell in neue Technologien wohl zu finden und innovative Ansätze zu entwickeln, meine Stärke ist.
+Als selbstgelernte Softwareentwickler habe ich mir mehr zu den Backend gebeugt, seit 4 Jahren durch autodidaktische Studien und praxisorientierte Projekte, aber da ich musste von Grund auf und allein meine Projekte durchführen, habe ich ein tiefes Verständnis für die Programmierung und Softwareentwicklung beides fur das Frontend als auch Backend erarbeitet. 
+
+🍃 Mit einem starken Fokus auf Lernwillen bin ich stets durch die Arbeit des Besten inspiriert, qualitativ hochwertige Softwarelösungen zu entwickeln. Ich bin überzeugt, dass meine Fähigkeit, mich schnell in neue Technologien wohl zu finden und innovative Ansätze zu entwickeln, meine Stärke ist. 🍃
 
 ---
+
+<p align="center">
+   <a href="https://github.com/DenverCoder1/readme-typing-svg">
+     <img src="https://readme-typing-svg.demolab.com/?lines=I%20have%20been%20inspired%20by%20the%20best%27s%20projects&font=consolas%20Code&center=true&width=440&height=45&color=c41f25&vCenter=true&pause=1000&size=18"/>
+   </a>
+</p>
 
 # Hauptprojekete
 
 ## Das Dmblog 🍎
-Schau mal das [Repo](https://github.com/dmsosa/dmblog) an
+
+* Technologien: React, TypeScript, Spring, PostgreSQL
+  
+* Beschreibung: Entwicklung einer wahres Blog mit Funktionen wie das Schreiben sowie das Liken und Kommentieren von Artikeln. Benutzer können sich anmelden und ihre eigenen Artikeln schreiben sowie einander zu folgen. Es war durch [realworld von Thinkster](https://github.com/gothinkster/realworld) inspiriert.
+  
+* Ergebnis: Die App ermöglichte es den Nutzern, ihre Aufgaben auf verschiedenen Geräten zu verwalten und bot eine einfache und schnelle Benutzeroberfläche.
+
+**Schau mal das [Repo](https://github.com/dmsosa/dmblog) an**
 
 ## Microservices Budget App 💸
-Schau mal das [Repo](https://github.com/dmsosa/microservices) an
+**Schau mal das [Repo](https://github.com/dmsosa/microservices) an**
 
 ## Das Jadassa Seite 🤖
 
 
-Schau mal das [Repo](https://github.com/dmsosa/jadassa-page) an
---oder--
+**Schau mal das [Repo](https://github.com/dmsosa/jadassa-page) an**
+*--oder--*
 Besuchen die Seite auf: 
 https://dmsosa.github.io/jadassa-page/
 

@@ -37,8 +37,9 @@ Als selbstgelernte Softwareentwickler habe ich mir mehr zu den Backend gebeugt, 
 
 <h3 align="center">Technologien</h3> 
 <p align="center"><img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> <img align="left" alt="Postgres" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /></p>
+<p align="center">React, TypeScript, Spring, PostgreSQL
+</p>
 
-React, TypeScript, Spring, PostgreSQL
 * Beschreibung: Entwicklung einer wahres Blog mit Funktionen wie das Schreiben sowie das Liken und Kommentieren von Artikeln. Benutzer können sich anmelden und ihre eigenen Artikeln schreiben sowie einander zu folgen. Es war durch [realworld von Thinkster](https://github.com/gothinkster/realworld) inspiriert.
   
 * Ergebnis: Die App ermöglichte es den Nutzern, ihre Aufgaben auf verschiedenen Geräten zu verwalten und bot eine einfache und schnelle Benutzeroberfläche.
@@ -103,8 +104,9 @@ React, TypeScript, Spring, PostgreSQL
 
 <h3 align="center">Technologien</h3> 
 <p align="center"><img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> <img align="left" alt="Postgres" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /></p>
+<p align="center">Spring, PostgreSQL
+</p>
 
-  Spring, PostgreSQL
 * Beschreibung: Entwicklung einer benutzerfreundlichen Budget App, womit Benutzer Auf- und Eingaben verwalten kann. Benutzer können sich anmelden und ihre Auf- und Eingaben in einer Datenbank speichern. Der Fokus lag auf eine Demonstration des Microservices Architektur.
   
 * Ergebnis: Die App ermöglichte es den Nutzern, ihre Sparsamkeit zu verwalten und bot eine einfache und schnelle Benutzeroberfläche.
@@ -139,7 +141,7 @@ React, TypeScript, Spring, PostgreSQL
     </tbody>
 </table>
 
-
+<div align="center">
    <table>
       <tr>
          <th>Repo</th>
@@ -148,6 +150,8 @@ React, TypeScript, Spring, PostgreSQL
          <td><a href="https://github.com/dmsosa/microservices">Microservices</a></td>
       </tr>
    </table>
+</div>
+
 
 
 </details>

@@ -32,39 +32,95 @@ Als selbstgelernte Softwareentwickler habe ich mir mehr zu den Backend gebeugt, 
 
 # Hauptprojekte
 
-## Das Dmblog 🍎
+<details open>
+   <summary><h2>Das Dmblog 🍎</h2></summary>
 
-* Technologien: React, TypeScript, Spring, PostgreSQL
-  
+   * Technologien: React, TypeScript, Spring, PostgreSQL
+
 * Beschreibung: Entwicklung einer wahres Blog mit Funktionen wie das Schreiben sowie das Liken und Kommentieren von Artikeln. Benutzer können sich anmelden und ihre eigenen Artikeln schreiben sowie einander zu folgen. Es war durch [realworld von Thinkster](https://github.com/gothinkster/realworld) inspiriert.
   
 * Ergebnis: Die App ermöglichte es den Nutzern, ihre Aufgaben auf verschiedenen Geräten zu verwalten und bot eine einfache und schnelle Benutzeroberfläche.
 
-**Schau mal das [Repo](https://github.com/dmsosa/dmblog) an**
+* Was du hier findest:
+   * Frontend 
+  	   * Nutzung von Context (Authentication Context, Light-Dark Theme und TagList Context)
+	   * Custom Hooks und wann Sie nutzen werden sollen
+	   * Fetch von Arrays mit Pagination
+	   * Es umfasst eine Homepage und Sekundärseiten
+	   * Login, Registrierungs Forms
+	   * Einstellungen
+      * Bilder hochzuladen
+   * Backend 
+  	   * Verwandten Objekte (Artikel, Benutzer, Kommentar und Tag)
+      * Der drei Typen von Beziehungen: One-To-Many, Many-To-One und Many-To-Many
+	   * mit JWT Token gesichert
+      * OAuth2 authentifizierung
+      * Ausnahmehandlung
+	   * Unit und Integration Testen
+      * mehr
 
-## Microservices Budget App 💸
+   <table>
+      <tr>
+         <th>Repo</th>
+         <th>Webseite</th>
+      </tr>
+      <tr>
+         <td>[dmblog](https://github.com/dmsosa/dmblog)</td>
+         <td>[github.io/dmblog](https://dmsosa.github.io/dmblog/)</td>
+      </tr>
+   </table>
+</details>
 
-* Technologien: React, TypeScript, Spring, PostgreSQL
+<details open>
+   <summary><h2>Microservices Budget App 💸</h2></summary>
+
+   * Technologien: Spring, Thymeleaf PostgreSQL, Docker
   
-* Beschreibung: Entwicklung einer wahres Blog mit Funktionen wie das Schreiben sowie das Liken und Kommentieren von Artikeln. Benutzer können sich anmelden und ihre eigenen Artikeln schreiben sowie einander zu folgen. Es war durch [realworld von Thinkster](https://github.com/gothinkster/realworld) inspiriert.
+* Beschreibung: Entwicklung einer benutzerfreundlichen Budget App, womit Benutzer Auf- und Eingaben verwalten kann. Benutzer können sich anmelden und ihre Auf- und Eingaben in einer Datenbank speichern. Der Fokus lag auf eine Demonstration des Microservices Architektur.
   
-* Ergebnis: Die App ermöglichte es den Nutzern, ihre Aufgaben auf verschiedenen Geräten zu verwalten und bot eine einfache und schnelle Benutzeroberfläche.
+* Ergebnis: Die App ermöglichte es den Nutzern, ihre Sparsamkeit zu verwalten und bot eine einfache und schnelle Benutzeroberfläche.
   
 
-**Schau mal das [Repo](https://github.com/dmsosa/microservices) an**
+   <table>
+      <tr>
+         <th>Repo</th>
+      </tr>
+      <tr>
+         <td><a href="https://github.com/dmsosa/microservices">Microservices</a></td>
+      </tr>
+   </table>
+
+
+</details>
+
 
 ## Das Jadassa Seite 🤖
 
+* Technologien: React, Bootstrap, HTML, JavaScript & CSS
 
+* Beschreibung: In dieses Web Seite habe ich die Grundlagen jedes React und Frontend Entwlicker kennen sollte, von nutzung von Context zu Organisierung eines Seites, es ist aber auch mit fortgeschrittene Konzepte wie der Personalisierung von Input- und Video Elemente, und dem horizontal-vertikalen Scrollen durch die Seite verfeinert. Außerdem werden CSS-Übergänge und Animationen gezeigt.
+ 
+* Ergebnis: Der Seite wirkt als ein Geschenck für einen Freund, oder als eine Demonstration von CSS Animationen und Frontend Entwlickungfahigkeiten
+
+* Was du hier findest:
+   * Mobile First Design
+  	* CSS Code Organization with Bootstrap
+	* Custom Hooks und wann Sie nutzen werden sollen
+	* Integration von Drittanbieter-APIs
+	* Vertikal und Horizontal Scrollen
+	* Viele, viele Animationen
+   
 **Schau mal das [Repo](https://github.com/dmsosa/jadassa-page) an**
 *--oder--*
 Besuchen die Seite auf: 
 https://dmsosa.github.io/jadassa-page/
 
-# Frameworks & Bibliotheken:
-Node.js, Express, React, Spring
 
 # 🧰 Sprachen und Werkzeuge
+
+Frameworks: Spring, ExpressJS, React
+Cloud: AWS
+
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />

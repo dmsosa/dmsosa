@@ -35,29 +35,55 @@ Als selbstgelernte Softwareentwickler habe ich mir mehr zu den Backend gebeugt, 
 <details open>
    <summary><h2>Das Dmblog 🍎</h2></summary>
 
-   * Technologien: React, TypeScript, Spring, PostgreSQL
+<h3 align="center">Technologien</h3> 
+React, TypeScript, Spring, PostgreSQL
 
 * Beschreibung: Entwicklung einer wahres Blog mit Funktionen wie das Schreiben sowie das Liken und Kommentieren von Artikeln. Benutzer können sich anmelden und ihre eigenen Artikeln schreiben sowie einander zu folgen. Es war durch [realworld von Thinkster](https://github.com/gothinkster/realworld) inspiriert.
   
 * Ergebnis: Die App ermöglichte es den Nutzern, ihre Aufgaben auf verschiedenen Geräten zu verwalten und bot eine einfache und schnelle Benutzeroberfläche.
 
-<h4 align="center">Was du hier findest:</h3> 
-   * Frontend 
-  	   * Nutzung von Context (Authentication Context, Light-Dark Theme und TagList Context)
-	   * Custom Hooks und wann Sie nutzen werden sollen
-	   * Fetch von Arrays mit Pagination
-	   * Es umfasst eine Homepage und Sekundärseiten
-	   * Login, Registrierungs Forms
-	   * Einstellungen
-      * Bilder hochzuladen
-   * Backend 
-  	   * Verwandten Objekte (Artikel, Benutzer, Kommentar und Tag)
-      * Der drei Typen von Beziehungen: One-To-Many, Many-To-One und Many-To-Many
-	   * mit JWT Token gesichert
-      * OAuth2 authentifizierung
-      * Ausnahmehandlung
-	   * Unit und Integration Testen
-      * mehr
+<h3 align="center">Was du hier findest:</h3> 
+
+<table>
+    <thead>
+        <tr>
+            <th><p align="center">Frontend</p></th>
+            <th><p align="center">Backend</p></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Nutzung von Context</td>
+            <td>Verwandten Objekte (Artikel, Benutzer, Kommentar und Tag)</td>
+        </tr>
+        <tr>
+            <td>Custom Hooks und wann Sie nutzen werden sollen</td>
+            <td>Beziehungen: One-To-Many, Many-To-One und Many-To-Many</td>
+        </tr>
+        <tr>
+            <td>Calls to Backend with Pagination</td>
+            <td>JWT Token gesichert</td>
+        </tr>
+        <tr>
+            <td>Homepage und Sekundärseiten</td>
+            <td>Unit und Integration Testen</td>
+        </tr>
+        <tr>
+            <td>Login und Registrierungs Forms</td>
+            <td>OAuth2 authentifizierung</td>
+        </tr>
+	<tr>
+            <td>Folgen und Lieblings funktion</td>
+            <td>Ausnahmehandlung</td>
+        </tr>
+	<tr>
+            <td>Bilder Hochzuladen</td>
+            <td>AWS Dienste</td>
+        </tr>
+    </tbody>
+</table>
+
+<h3 align="center">Tiefer Wissen:</h3> 
 
    <table>
       <tr>

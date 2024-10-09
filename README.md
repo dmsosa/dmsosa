@@ -41,7 +41,7 @@ Als selbstgelernte Softwareentwickler habe ich mir mehr zu den Backend gebeugt, 
   
 * Ergebnis: Die App ermöglichte es den Nutzern, ihre Aufgaben auf verschiedenen Geräten zu verwalten und bot eine einfache und schnelle Benutzeroberfläche.
 
-* Was du hier findest:
+<h4 align="center">Was du hier findest:</h3> 
    * Frontend 
   	   * Nutzung von Context (Authentication Context, Light-Dark Theme und TagList Context)
 	   * Custom Hooks und wann Sie nutzen werden sollen

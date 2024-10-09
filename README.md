@@ -36,8 +36,9 @@ Als selbstgelernte Softwareentwickler habe ich mir mehr zu den Backend gebeugt, 
    <summary><h2>Das Dmblog 🍎</h2></summary>
 
 <h3 align="center">Technologien</h3> 
-React, TypeScript, Spring, PostgreSQL
+<p align="center"><img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> <img align="left" alt="Postgres" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /></p>
 
+React, TypeScript, Spring, PostgreSQL
 * Beschreibung: Entwicklung einer wahres Blog mit Funktionen wie das Schreiben sowie das Liken und Kommentieren von Artikeln. Benutzer können sich anmelden und ihre eigenen Artikeln schreiben sowie einander zu folgen. Es war durch [realworld von Thinkster](https://github.com/gothinkster/realworld) inspiriert.
   
 * Ergebnis: Die App ermöglichte es den Nutzern, ihre Aufgaben auf verschiedenen Geräten zu verwalten und bot eine einfache und schnelle Benutzeroberfläche.
@@ -91,8 +92,8 @@ React, TypeScript, Spring, PostgreSQL
          <th>Webseite</th>
       </tr>
       <tr>
-         <td>[dmblog](https://github.com/dmsosa/dmblog)</td>
-         <td>[github.io/dmblog](https://dmsosa.github.io/dmblog/)</td>
+         <td><a href="https://github.com/dmsosa/dmblog">dmblog</a></td>
+         <td><a href="https://dmsosa.github.io/dmblog">GitHub Pages</a></td>
       </tr>
    </table>
 </details>
@@ -100,12 +101,44 @@ React, TypeScript, Spring, PostgreSQL
 <details open>
    <summary><h2>Microservices Budget App 💸</h2></summary>
 
-   * Technologien: Spring, Thymeleaf PostgreSQL, Docker
-  
+<h3 align="center">Technologien</h3> 
+<p align="center"><img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> <img align="left" alt="Postgres" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /></p>
+
+  Spring, PostgreSQL
 * Beschreibung: Entwicklung einer benutzerfreundlichen Budget App, womit Benutzer Auf- und Eingaben verwalten kann. Benutzer können sich anmelden und ihre Auf- und Eingaben in einer Datenbank speichern. Der Fokus lag auf eine Demonstration des Microservices Architektur.
   
 * Ergebnis: Die App ermöglichte es den Nutzern, ihre Sparsamkeit zu verwalten und bot eine einfache und schnelle Benutzeroberfläche.
-  
+
+  <h3 align="center">Was du hier findest:</h3> 
+
+<table>
+    <thead>
+        <tr>
+            <th><p align="center">Full Spring</p></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Eureka Service Registry</td>
+        </tr>
+        <tr>
+            <td>Spring Cloud Security</td>
+        </tr>
+        <tr>
+            <td>OAuth2 Authorization Server</td>
+        </tr>
+        <tr>
+            <td>3 Microdienste (microservices)</td>
+        </tr>
+        <tr>
+            <td>Spring Gateway</td>
+        </tr>
+	<tr>
+            <td>Deploy with Docker</td>
+        </tr>
+    </tbody>
+</table>
+
 
    <table>
       <tr>
@@ -119,27 +152,59 @@ React, TypeScript, Spring, PostgreSQL
 
 </details>
 
+<details open>
+   <summary><h2>Das Jadassa Seite 🤖</h2></summary>
 
-## Das Jadassa Seite 🤖
+ <h3 align="center">Technologien</h3> 
+<p align="center"> <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></p>
 
-* Technologien: React, Bootstrap, HTML, JavaScript & CSS
-
+React, Bootstrap, HTML, CSS & JavaScript
 * Beschreibung: In dieses Web Seite habe ich die Grundlagen jedes React und Frontend Entwlicker kennen sollte, von nutzung von Context zu Organisierung eines Seites, es ist aber auch mit fortgeschrittene Konzepte wie der Personalisierung von Input- und Video Elemente, und dem horizontal-vertikalen Scrollen durch die Seite verfeinert. Außerdem werden CSS-Übergänge und Animationen gezeigt.
  
 * Ergebnis: Der Seite wirkt als ein Geschenck für einen Freund, oder als eine Demonstration von CSS Animationen und Frontend Entwlickungfahigkeiten
 
-* Was du hier findest:
-   * Mobile First Design
-  	* CSS Code Organization with Bootstrap
-	* Custom Hooks und wann Sie nutzen werden sollen
-	* Integration von Drittanbieter-APIs
-	* Vertikal und Horizontal Scrollen
-	* Viele, viele Animationen
-   
-**Schau mal das [Repo](https://github.com/dmsosa/jadassa-page) an**
-*--oder--*
-Besuchen die Seite auf: 
-https://dmsosa.github.io/jadassa-page/
+  <h3 align="center">Was du hier findest:</h3> 
+
+<table>
+    <thead>
+        <tr>
+            <th><p align="center">React und viel CSS</p></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Mobile First Design</td>
+        </tr>
+        <tr>
+            <td>Integration von Drittanbieter-APIs</td>
+        </tr>
+    	<tr>
+            <td>Quiz game with final score</td>
+        </tr>
+	<tr>
+            <td>To-DO Liste App</td>
+        </tr>
+        <tr>
+            <td>Vertikal und Horizontal Scrollen</td>
+        </tr>
+        <tr>
+            <td>Viele, viele Animationen</td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+      <tr>
+         <th>Repo</th>
+         <th>Webseite</th>
+      </tr>
+      <tr>
+         <td><a href="https://github.com/dmsosa/jadassa-page">Jadassa Repository</a></td>
+         <td><a href="https://dmsosa.github.io/jadassa-page">Jadassa Seite</a></td>
+      </tr>
+</table>
+
+</details>
 
 
 # 🧰 Sprachen und Werkzeuge

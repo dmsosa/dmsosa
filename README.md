@@ -37,6 +37,7 @@ Als selbstgelernte Softwareentwickler habe ich mir mehr zu den Backend gebeugt, 
 
 <h3 align="center">Technologien</h3> 
 <p align="center"><img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> <img align="left" alt="Postgres" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /></p>
+
 <p align="center">React, TypeScript, Spring, PostgreSQL
 </p>
 
@@ -46,6 +47,7 @@ Als selbstgelernte Softwareentwickler habe ich mir mehr zu den Backend gebeugt, 
 
 <h3 align="center">Was du hier findest:</h3> 
 
+<div align="center">
 <table>
     <thead>
         <tr>
@@ -84,10 +86,12 @@ Als selbstgelernte Softwareentwickler habe ich mir mehr zu den Backend gebeugt, 
         </tr>
     </tbody>
 </table>
+</div>
+
 
 <h3 align="center">Tiefer Wissen:</h3> 
-
-   <table>
+<div align="center">
+<table>
       <tr>
          <th>Repo</th>
          <th>Webseite</th>
@@ -97,6 +101,7 @@ Als selbstgelernte Softwareentwickler habe ich mir mehr zu den Backend gebeugt, 
          <td><a href="https://dmsosa.github.io/dmblog">GitHub Pages</a></td>
       </tr>
    </table>
+</div>
 </details>
 
 <details open>
@@ -113,6 +118,7 @@ Als selbstgelernte Softwareentwickler habe ich mir mehr zu den Backend gebeugt, 
 
   <h3 align="center">Was du hier findest:</h3> 
 
+<div align="center">
 <table>
     <thead>
         <tr>
@@ -140,6 +146,9 @@ Als selbstgelernte Softwareentwickler habe ich mir mehr zu den Backend gebeugt, 
         </tr>
     </tbody>
 </table>
+</div>
+
+
 
 <div align="center">
    <table>
@@ -169,6 +178,7 @@ React, Bootstrap, HTML, CSS & JavaScript
 
   <h3 align="center">Was du hier findest:</h3> 
 
+<div align="center">
 <table>
     <thead>
         <tr>
@@ -196,7 +206,9 @@ React, Bootstrap, HTML, CSS & JavaScript
         </tr>
     </tbody>
 </table>
+</div>
 
+<div align="center">
 <table>
       <tr>
          <th>Repo</th>
@@ -207,9 +219,8 @@ React, Bootstrap, HTML, CSS & JavaScript
          <td><a href="https://dmsosa.github.io/jadassa-page">Jadassa Seite</a></td>
       </tr>
 </table>
-
+</div>
 </details>
-
 
 # 🧰 Sprachen und Werkzeuge
 

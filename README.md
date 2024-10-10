@@ -2,11 +2,11 @@
 
 <h1 align="center">Hallo Welt 👋, Mein Name ist Durian.</h1> 
 <p align="center">
-   Ich bin eine vehement selbst gelernt Software Entwlicker. 
+   Ich bin eine vehement selbst gelernt Frontend Entwlicker. 
 </p>
 <p align="center">
    <a href="https://github.com/DenverCoder1/readme-typing-svg">
-     <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20Developer;Rest%20API%27s%20%26%20Websites%20Building;Always%20learning%20new%20things&font=consolas%20Code&center=true&width=440&height=45&color=20e884&vCenter=true&size=20"/>
+     <img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20Web%20Developer;Rest%20API%27s%20%26%20Websites%20Building;Always%20learning%20new%20things&font=consolas%20Code&center=true&width=440&height=45&color=20e884&vCenter=true&size=20"/>
    </a>
 </p>
 

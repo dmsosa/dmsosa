@@ -216,7 +216,8 @@ Als selbstgelernte Softwareentwickler habe ich mir mehr zu den Backend gebeugt, 
 </details>
 
 # 🧰 Sprachen und Werkzeuge
-<img align="center" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<p align="center">
+	<img align="center" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="center" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="center" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="center" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -224,7 +225,8 @@ Als selbstgelernte Softwareentwickler habe ich mir mehr zu den Backend gebeugt, 
 <img align="center" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="center" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="center" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-<img align="center" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />    
+<img align="center" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> 
+</p>   
 <br />
 
 ## Folgen Sie mich an:
@@ -237,7 +239,7 @@ Als selbstgelernte Softwareentwickler habe ich mir mehr zu den Backend gebeugt, 
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
   <h3>:zap: Über mich</h3>
-  <div align="center">Schauen Sie meine WebSeite an: 👉<a href="https://dmsosa.com/">dmsosa.com</a>👈</div>
+  <div align="left" font-weight="bold">Schauen Sie meine WebSeite an: 👉<a href="https://dmsosa.com/">dmsosa.com</a>👈</div>
 
 <details>
 	<summary><h2>🔥 Streak Stats</h2></summary>

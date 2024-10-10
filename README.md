@@ -37,7 +37,7 @@ Als selbstgelernte Softwareentwickler habe ich mir mehr zu den Backend gebeugt, 
 
 <h3 align="center">Technologien</h3> 
 <p align="center"><img align="center" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img align="center" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> <img align="center" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> <img align="center" alt="Postgres" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /></p>
-<p align="center">React, TypeScript, Spring, PostgreSQL</p>
+<p align="center"><em>React,   TypeScript,   Spring,   PostgreSQL</em></p>
 
 * Beschreibung: Entwicklung einer wahres Blog mit Funktionen wie das Schreiben sowie das Liken und Kommentieren von Artikeln. Benutzer können sich anmelden und ihre eigenen Artikeln schreiben sowie einander zu folgen. Es war durch [realworld von Thinkster](https://github.com/gothinkster/realworld) inspiriert.
   
@@ -106,9 +106,9 @@ Als selbstgelernte Softwareentwickler habe ich mir mehr zu den Backend gebeugt, 
    <summary><h2>Das Jadassa Seite 🤖</h2></summary>
 
  <h3 align="center">Technologien</h3> 
-<p align="center"> <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></p>
+<p align="center"> <img align="center" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img align="center" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> <img align="center" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> <img align="center" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> <img align="center" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></p>
+<p align="center"><em>React,   TypeScript,   Spring,   PostgreSQL</em></p>
 
-React, Bootstrap, HTML, CSS & JavaScript
 * Beschreibung: In dieses Web Seite habe ich die Grundlagen jedes React und Frontend Entwlicker kennen sollte, von nutzung von Context zu Organisierung eines Seites, es ist aber auch mit fortgeschrittene Konzepte wie der Personalisierung von Input- und Video Elemente, und dem horizontal-vertikalen Scrollen durch die Seite verfeinert. Außerdem werden CSS-Übergänge und Animationen gezeigt.
  
 * Ergebnis: Der Seite wirkt als ein Geschenck für einen Freund, oder als eine Demonstration von CSS Animationen und Frontend Entwlickungfahigkeiten
@@ -163,9 +163,9 @@ React, Bootstrap, HTML, CSS & JavaScript
    <summary><h2>Microservices Budget App 💸</h2></summary>
 
 <h3 align="center">Technologien</h3> 
-<p align="center"><img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> <img align="left" alt="Postgres" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /></p>
-<p align="center">Spring, PostgreSQL
-</p>
+<p align="center"><img align="center" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> <img align="center" alt="Postgres" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /></p>
+<p align="center"><em>Spring,  PostgreSQL</em></p>
+
 
 * Beschreibung: Entwicklung einer benutzerfreundlichen Budget App, womit Benutzer Auf- und Eingaben verwalten kann. Benutzer können sich anmelden und ihre Auf- und Eingaben in einer Datenbank speichern. Der Fokus lag auf eine Demonstration des Microservices Architektur.
   
@@ -216,76 +216,47 @@ React, Bootstrap, HTML, CSS & JavaScript
 </details>
 
 # 🧰 Sprachen und Werkzeuge
-
-Frameworks: Spring, Express, React
-Cloud: AWS
-
-
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />    
-
+<img align="center" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="center" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="center" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="center" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="center" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="center" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="center" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="center" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img align="center" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />    
 <br />
 
-#
-
-## Kontaktieren Sie mich:
-
-## Folgen
+## Folgen Sie mich an:
 
 <!-- BADGES SECTION -->
 <p align="center">
    
 [![LinkedIn Profile](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&labelColor=2667d1&logoColor=white)](https://www.instagram.com/duvi_official/?hl=de) [![Instagram Follow](https://img.shields.io/badge/INSTAGRAM-FOLLOW-deeppink?style=for-the-badge&logo=instagram&labelColor=b00c4e&logoColor=white)](https://www.instagram.com/duvi_official/?hl=de) [![Devdotto Follow](https://custom-icon-badges.demolab.com/badge/DEV-FOLLOW.svg?color=%23eb34cf&labelColor=%2334ebd&style=for-the-badge&logo=devdotto&label=WATCH&logoColor=white)](https://dev.to/dmsosa) [![Github Follow](https://custom-icon-badges.demolab.com/github/followers/dmsosa?color=gray&labelColor=black&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/dmsosa?tab=followers)  [![Github Stars](https://custom-icon-badges.demolab.com/github/stars/dmsosa?color=048037&style=for-the-badge&labelColor=2c9959&logo=star)](https://github.com/dmsosa?tab=repositories&sort=stargazers) 
-
 </p>
 
-- <img align="left" alt="Autodoc Logo" width="30px" style="padding-right:4px;" src="https://github.com/dmsosa/dmsosa/assets/112881114/96375a2d-124a-4f94-88b0-d6b57e5fe93e"/> Derzeite arbeite ich bei AUTODOC ja... gar nichst mit Code zu tun, aber alles muss irgendwo starten, oder?
-  
-- <img align="left" alt="Autodoc Logo" width="30px" style="padding-right:4px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" /> Backend developer
-  
-- <img align="left" alt="Autodoc Logo" width="30px" style="padding-right:4px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" /> ALLE meine Projekte sind von Grund auf gerstellten, durch den Projekte anderer inspiriert, aber immer mit meine eigene Soße darin.
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+  <h3>:zap: Über mich</h3>
+  <div align="center">Schauen Sie meine WebSeite an: 👉<a href="https://dmsosa.com/">dmsosa.com</a>👈</div>
 
-
-    <!-- https://github.com/anuraghazra/github-readme-stats -->
-  <h3>:zap: GitHub Stats</h3>
-  <img align="left" alt="dmsosa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dmsosa&show_icons=true&hide_border=false&title_color=03fc6b&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-
-
-
-<h2>📊 Stats and Activity</h2>
-
-  <h3>🔥 Streak Stats</h3>
-
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<details>
+	<summary><h2>🔥 Streak Stats</h2></summary>
   <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="dmsosa's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=dmsosa&theme=monokai-metallian&hide_border=true"/>
     </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
+</details>  
 
-  <h3>💻 GitHub Profile Stats</h3>
+# Kontakte
 
+* Email: dmsosa21@outlook.com
+* Phone: +351 926 804 431
+* Location: Lisbon, Portugal 🇵🇹
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="dmsosa's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=dmsosa&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="dmsosa's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dmsosa&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-  <br/>
-
-  <b>Notiz:</b> Top-Sprachen sind nur ein Maß für die Sprachen, aus denen mein öffentlicher Code besteht, und spiegeln weder Erfahrung noch Fähigkeitsniveau wider.
-  
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="dmsosa's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=dmsosa&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-🕶️: über mich
+# über mich
+<img align="left" alt="Autodoc Logo" width="30px" style="padding-right:4px;" src="https://github.com/dmsosa/dmsosa/assets/112881114/96375a2d-124a-4f94-88b0-d6b57e5fe93e"/> **AUTODOC**
 - 🔭 Ich arbeite derzeit an Freelance für WebSeiten und REST APIs
 - 🌱 Ich lerne gerade alles 🤣
 - 👯 Ich suche eine Zusammenarbeit bei Leute, die ein WebSeite erstellen möchte

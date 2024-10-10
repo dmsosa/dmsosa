@@ -36,7 +36,8 @@ Als selbstgelernte Softwareentwickler habe ich mir mehr zu den Backend gebeugt, 
    <summary><h2>Das Dmblog 🍎</h2></summary>
 
 <h3 align="center">Technologien</h3> 
-<p align="center"><img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> <img align="left" alt="Postgres" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />React, TypeScript, Spring, PostgreSQL</p><p align="center"></p>
+<p align="center"><img align="center" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img align="center" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> <img align="center" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> <img align="center" alt="Postgres" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /></p>
+<p align="center">React, TypeScript, Spring, PostgreSQL</p>
 
 * Beschreibung: Entwicklung einer wahres Blog mit Funktionen wie das Schreiben sowie das Liken und Kommentieren von Artikeln. Benutzer können sich anmelden und ihre eigenen Artikeln schreiben sowie einander zu folgen. Es war durch [realworld von Thinkster](https://github.com/gothinkster/realworld) inspiriert.
   

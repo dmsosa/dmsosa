@@ -229,7 +229,7 @@ Als selbstgelernte Softwareentwickler habe ich mir mehr zu den Backend gebeugt, 
 </p>   
 <br />
 
-## Folgen Sie mich an:
+## :zap: Folgen Sie mich an:
 
 <!-- BADGES SECTION -->
 <p align="center">
@@ -238,8 +238,7 @@ Als selbstgelernte Softwareentwickler habe ich mir mehr zu den Backend gebeugt, 
 </p>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-  <h3>:zap: Über mich</h3>
-  <div align="left" font-weight="bold">Schauen Sie meine WebSeite an: 👉<a href="https://dmsosa.com/">dmsosa.com</a>👈</div>
+<div align="left" font-weight="bold">Schauen Sie meine WebSeite an: 👉<a href="https://dmsosa.com/">dmsosa.com</a>👈</div>
 
 <details>
 	<summary><h2>🔥 Streak Stats</h2></summary>

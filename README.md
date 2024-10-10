@@ -33,7 +33,7 @@ Als selbstgelernte Softwareentwickler habe ich mir mehr zu den Backend gebeugt, 
 # Hauptprojekte
 
 <details open>
-   <summary><h2>Das Dmblog 🍎</h2></summary>
+   <summary><h2>Das Dmblog 🍎</h2><div align="left">👉<a href="https://dmsosa.github.io/dmblog">https://dmsosa.github.io/dmblog</a>👈</div></summary>
 
 <h3 align="center">Technologien</h3> 
 <p align="center"><img align="center" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img align="center" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> <img align="center" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> <img align="center" alt="Postgres" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /></p>
@@ -103,7 +103,8 @@ Als selbstgelernte Softwareentwickler habe ich mir mehr zu den Backend gebeugt, 
 </details>
 
 <details open>
-   <summary><h2>Das Jadassa Seite 🤖</h2></summary>
+   <summary><h2>Das Jadassa Seite 🤖</h2><div align="left">👉<a href="https://dmsosa.github.io/jadassa-page">[dmsosa.com](https://dmsosa.github.io/jadassa-page)</a>👈</div>
+</summary>
 
  <h3 align="center">Technologien</h3> 
 <p align="center"> <img align="center" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img align="center" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> <img align="center" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> <img align="center" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> <img align="center" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></p>
@@ -238,7 +239,7 @@ Als selbstgelernte Softwareentwickler habe ich mir mehr zu den Backend gebeugt, 
 </p>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<div align="left" font-weight="bold">Schauen Sie meine WebSeite an: 👉<a href="https://dmsosa.com/">dmsosa.com</a>👈</div>
+<div align="left" font-weight="bold">**Schauen Sie meine WebSeite an:**👉<a href="https://dmsosa.com/">dmsosa.com</a>👈</div>
 
 <details>
 	<summary><h2>🔥 Streak Stats</h2></summary>

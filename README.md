@@ -103,7 +103,7 @@ Als selbstgelernte Softwareentwickler habe ich mir mehr zu den Backend gebeugt, 
 </details>
 
 <details open>
-   <summary><h2>Das Jadassa Seite 🤖</h2><div align="left">👉<a href="https://dmsosa.github.io/jadassa-page">[dmsosa.com](https://dmsosa.github.io/jadassa-page)</a>👈</div>
+   <summary><h2>Das Jadassa Seite 🤖</h2><div align="left">👉<a href="https://dmsosa.github.io/jadassa-page">https://dmsosa.github.io/jadassa-page</a>👈</div>
 </summary>
 
  <h3 align="center">Technologien</h3> 

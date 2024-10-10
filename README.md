@@ -36,10 +36,7 @@ Als selbstgelernte Softwareentwickler habe ich mir mehr zu den Backend gebeugt, 
    <summary><h2>Das Dmblog 🍎</h2></summary>
 
 <h3 align="center">Technologien</h3> 
-<p align="center"><img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> <img align="left" alt="Postgres" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /></p>
-
-<p align="center">React, TypeScript, Spring, PostgreSQL
-</p>
+<p align="center"><img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> <img align="left" alt="Postgres" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /></p><p align="center">React, TypeScript, Spring, PostgreSQL</p>
 
 * Beschreibung: Entwicklung einer wahres Blog mit Funktionen wie das Schreiben sowie das Liken und Kommentieren von Artikeln. Benutzer können sich anmelden und ihre eigenen Artikeln schreiben sowie einander zu folgen. Es war durch [realworld von Thinkster](https://github.com/gothinkster/realworld) inspiriert.
   
@@ -105,67 +102,6 @@ Als selbstgelernte Softwareentwickler habe ich mir mehr zu den Backend gebeugt, 
 </details>
 
 <details open>
-   <summary><h2>Microservices Budget App 💸</h2></summary>
-
-<h3 align="center">Technologien</h3> 
-<p align="center"><img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> <img align="left" alt="Postgres" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /></p>
-<p align="center">Spring, PostgreSQL
-</p>
-
-* Beschreibung: Entwicklung einer benutzerfreundlichen Budget App, womit Benutzer Auf- und Eingaben verwalten kann. Benutzer können sich anmelden und ihre Auf- und Eingaben in einer Datenbank speichern. Der Fokus lag auf eine Demonstration des Microservices Architektur.
-  
-* Ergebnis: Die App ermöglichte es den Nutzern, ihre Sparsamkeit zu verwalten und bot eine einfache und schnelle Benutzeroberfläche.
-
-  <h3 align="center">Was du hier findest:</h3> 
-
-<div align="center">
-<table>
-    <thead>
-        <tr>
-            <th><p align="center">Full Spring</p></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Eureka Service Registry</td>
-        </tr>
-        <tr>
-            <td>Spring Cloud Security</td>
-        </tr>
-        <tr>
-            <td>OAuth2 Authorization Server</td>
-        </tr>
-        <tr>
-            <td>3 Microdienste (microservices)</td>
-        </tr>
-        <tr>
-            <td>Spring Gateway</td>
-        </tr>
-	<tr>
-            <td>Deploy with Docker</td>
-        </tr>
-    </tbody>
-</table>
-</div>
-
-
-
-<div align="center">
-   <table>
-      <tr>
-         <th>Repo</th>
-      </tr>
-      <tr>
-         <td><a href="https://github.com/dmsosa/microservices">Microservices</a></td>
-      </tr>
-   </table>
-</div>
-
-
-
-</details>
-
-<details open>
    <summary><h2>Das Jadassa Seite 🤖</h2></summary>
 
  <h3 align="center">Technologien</h3> 
@@ -222,25 +158,75 @@ React, Bootstrap, HTML, CSS & JavaScript
 </div>
 </details>
 
+<details open>
+   <summary><h2>Microservices Budget App 💸</h2></summary>
+
+<h3 align="center">Technologien</h3> 
+<p align="center"><img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> <img align="left" alt="Postgres" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /></p>
+<p align="center">Spring, PostgreSQL
+</p>
+
+* Beschreibung: Entwicklung einer benutzerfreundlichen Budget App, womit Benutzer Auf- und Eingaben verwalten kann. Benutzer können sich anmelden und ihre Auf- und Eingaben in einer Datenbank speichern. Der Fokus lag auf eine Demonstration des Microservices Architektur.
+  
+* Ergebnis: Die App ermöglichte es den Nutzern, ihre Sparsamkeit zu verwalten und bot eine einfache und schnelle Benutzeroberfläche.
+
+  <h3 align="center">Was du hier findest:</h3> 
+
+<div align="center">
+<table>
+    <thead>
+        <tr>
+            <th><p align="center">Full Spring</p></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Eureka Service Registry</td>
+        </tr>
+        <tr>
+            <td>Spring Cloud Security</td>
+        </tr>
+        <tr>
+            <td>OAuth2 Authorization Server</td>
+        </tr>
+        <tr>
+            <td>3 Microdienste (microservices)</td>
+        </tr>
+        <tr>
+            <td>Spring Gateway</td>
+        </tr>
+	<tr>
+            <td>Deploy with Docker</td>
+        </tr>
+    </tbody>
+</table>
+</div>
+
+<div align="center">
+   <table>
+      <tr>
+         <th>Repo</th>
+      </tr>
+      <tr>
+         <td><a href="https://github.com/dmsosa/microservices">Microservices</a></td>
+      </tr>
+   </table>
+</div>
+</details>
+
 # 🧰 Sprachen und Werkzeuge
 
-Frameworks: Spring, ExpressJS, React
+Frameworks: Spring, Express, React
 Cloud: AWS
 
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="Postgres" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />    
 
 <br />

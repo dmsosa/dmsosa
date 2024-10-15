@@ -1,5 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffae00,100:09dbd1&height=120&section=header" width="100%"/>
 
+[DE](https://img.shields.io/badge/LANG-DE-blue)
 <h1 align="center">Hallo Welt 👋, Mein Name ist Durian.</h1> 
 <p align="center">
    Ich bin eine vehement selbst gelernt Frontend Entwlicker. 

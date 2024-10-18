@@ -36,8 +36,8 @@ Als selbstgelernte Softwareentwickler habe ich mir mehr zu den Backend gebeugt, 
 <div align="center">
 	<table>
 		<tr>
-			<th>Das Dmblog</th>
-			<th>Jadassa Seite</th>
+			<th>Das Dmblog 🍎</th>
+			<th>Jadassa Seite 🤖</th>
 		</tr>
 		<tr>
 			<td>https://dmsosa.github.io/dmblog/</td>

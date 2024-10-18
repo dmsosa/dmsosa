@@ -33,6 +33,18 @@ Als selbstgelernte Softwareentwickler habe ich mir mehr zu den Backend gebeugt, 
 
 # Hauptprojekte
 
+<div align="center">
+	<table>
+		<tr>
+			<th>Das Dmblog</th>
+			<th>Jadassa Seite</th>
+		</tr>
+		<tr>
+			<td>https://dmsosa.github.io/dmblog/</td>
+			<td>https://dmsosa.github.io/jadassa-page/</td>
+		</tr>
+	</table>
+</div>
 <details open>
    <summary><h2>Das Dmblog 🍎</h2><div align="left">👉<a href="https://dmsosa.github.io/dmblog">https://dmsosa.github.io/dmblog</a>👈</div></summary>
 

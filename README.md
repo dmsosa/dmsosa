@@ -3,7 +3,7 @@
 [![Readme Bagde](https://img.shields.io/badge/LANG-EN-FF0000)](https://github.com/dmsosa) [![Readme Badge](https://img.shields.io/badge/LANG-DE-blue)](https://github.com/dmsosa/dmsosa/blob/main/README.de.md)
 <h1 align="center">Hallo Welt 👋, Mein Name ist Durian.</h1> 
 <p align="center">
-   I am a vehement frontend developer. 👉 <a href="https://dmsosa.github.io/the-chosen">dmsosa.com</a> 👈
+   I am a vehement frontend developer. 👉 <a href="https://dmsosa.com">dmsosa.com</a> 👈
 </p>
 <p align="center">
    <a href="https://github.com/DenverCoder1/readme-typing-svg">

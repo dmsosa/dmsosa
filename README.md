@@ -3,7 +3,7 @@
 [![Readme Bagde](https://img.shields.io/badge/LANG-EN-FF0000)](https://github.com/dmsosa) [![Readme Badge](https://img.shields.io/badge/LANG-DE-blue)](https://github.com/dmsosa/dmsosa/blob/main/README.de.md)
 <h1 align="center">Hallo Welt 👋, Mein Name ist Durian.</h1> 
 <p align="center">
-   I am a vehement frontend developer. 👉 <a href="https://dmsosa.com">dmsosa.com</a> 👈
+   I am a vehement frontend developer. 👉 <a href="https://dmsosa.github.io/the-chosen">dmsosa.com</a> 👈
 </p>
 <p align="center">
    <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -36,15 +36,87 @@ As a self-taught software developer, I have leaned more towards the backend, thr
 <div align="center">
 	<table>
 		<tr>
+			<th>The Chosen 🐟</th>
 			<th>The Dmblog 🍎</th>
 			<th>React: All in One 🤖</th>
 		</tr>
 		<tr>
+			<td>https://dmsosa.github.io/the-chosen/</td>
 			<td>https://dmsosa.github.io/dmblog/</td>
 			<td>https://dmsosa.github.io/jadassa-page/</td>
 		</tr>
 	</table>
 </div>
+<details open>
+   <summary><h2>The Chosen: Netflix Series 🐟</h2><div align="left">👉<a href="https://dmsosa.github.io/the-chosen">https://dmsosa.github.io/the-chosen</a>👈</div></summary>
+
+<h3 align="center">Tech Stack</h3> 
+<p align="center"><img align="center" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img align="center" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> <img align="center" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" /> 
+<p align="center"><em>React,   TypeScript,   Express,   NodeJS</em></p>
+
+* Description: Developed a promotional website with rich features and animations, so people or users can engage, read and write about the successful netflix series of The Chosen. It was deployed with GitHub hosting service.
+
+* Result: The website can be displayed responsively in different devices and provided a eye-catching interface that motivates people.
+
+<h3 align="center">What you will find here:</h3> 
+
+<div align="center">
+<table>
+    <thead>
+        <tr>
+            <th><p align="center">Frontend</p></th>
+            <th><p align="center">Backend</p></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Use of Hooks and Custom Hooks</td>
+            <td>Related Models (Articles, Comments, Tags and Users)</td>
+        </tr>
+        <tr>
+            <td>Custom Hooks and when to use them</td>
+            <td>Relations: One-To-Many, Many-To-One und Many-To-Many</td>
+        </tr>
+        <tr>
+            <td>Calls to Backend with Pagination</td>
+            <td>JWT Token Security</td>
+        </tr>
+        <tr>
+            <td>Homepage and Secondary Pages</td>
+            <td>Unit and Integration Tests</td>
+        </tr>
+        <tr>
+            <td>Login and Register Forms</td>
+            <td>OAuth2 Authentication</td>
+        </tr>
+	<tr>
+            <td>Following and Favorite functions</td>
+            <td>Exception Handling</td>
+        </tr>
+	<tr>
+            <td>Uploading of images</td>
+            <td>AWS Service</td>
+        </tr>
+    </tbody>
+</table>
+</div>
+
+
+<h3 align="center">See more:</h3> 
+<div align="center">
+<table>
+      <tr>
+         <th>Repo</th>
+         <th>Website</th>
+      </tr>
+      <tr>
+         <td><a href="https://github.com/dmsosa/dmblog">dmblog</a></td>
+         <td><a href="https://dmsosa.github.io/dmblog">GitHub Pages</a></td>
+      </tr>
+   </table>
+</div>
+</details>
+
 <details open>
    <summary><h2>The Dmblog 🍎</h2><div align="left">👉<a href="https://dmsosa.github.io/dmblog">https://dmsosa.github.io/dmblog</a>👈</div></summary>
 

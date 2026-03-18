@@ -4,6 +4,7 @@
 <h1 align="center">Hallo Welt 👋, Mein Name ist Durian.</h1> 
 <p align="center">
    I am a vehement frontend developer. 👉 <a href="https://dmsosa.com](https://dmsosa.github.io/the-chosen/">dmsosa.com</a> 👈
+	 👉 <a href="https://dmsosa.com](https://www.linkedin.com/in/durian-sosa-807147241/">dmsosa.com</a> 👈
 </p>
 <p align="center">
    <a href="https://github.com/DenverCoder1/readme-typing-svg">

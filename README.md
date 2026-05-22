@@ -3,7 +3,7 @@
 [![Readme Bagde](https://img.shields.io/badge/LANG-EN-FF0000)](https://github.com/dmsosa) [![Readme Badge](https://img.shields.io/badge/LANG-DE-blue)](https://github.com/dmsosa/dmsosa/blob/main/README.de.md)
 <h1 align="center">Hallo Welt 👋, Mein Name ist Durian.</h1> 
 <p align="center">
-   I am a vehement frontend developer. 👉 <a href="https://dmsosa.com](https://dmsosa.github.io/the-chosen/">dmsosa.com</a> 👈
+   I love building software. 👉 <a href="https://dmsosa.com](https://dmsosa.github.io/the-chosen/">dmsosa.com</a> 👈
 	 👉 <a href="https://dmsosa.com](https://www.linkedin.com/in/durian-sosa-807147241/">dmsosa.com</a> 👈
 </p>
 <p align="center">
@@ -20,9 +20,9 @@
 
 # About me: 🧏
 
-As a self-taught software developer, I have leaned more towards the backend, through self-taught studies and hands-on projects for 4 years, but since I had to do my projects from scratch and alone, I have developed a deep understanding of programming and software development for both the frontend and backend.
+As a self-taught software developer, I have leaned more towards the backend, and I upload my projects here on github.
 
-🍃 With a strong focus on learning and actually understanding things, I am always inspired by the work of the bests to develop high-quality software solutions. I am convinced that my ability to quickly find my way into new technologies and develop innovative approaches is my strength. 🍃
+🍃 I am open to say that I spend hours reading other developer's repositories, getting inspired by the work of the bests to build my own code. 🍃
 
 ---
 
@@ -32,7 +32,7 @@ As a self-taught software developer, I have leaned more towards the backend, thr
    </a>
 </p>
 
-# Hauptprojekte
+# Main projects
 
 <div align="center">
 	<table>

@@ -11,7 +11,7 @@
 
 <h1 align="center">Hello World, my name is Durian 👋</h1> 
 <p align="center">
-   Software Engineer. And I love to create 👉 <a href="https://dmsosa.com](https://dmsosa.github.io/the-chosen/">web content</a> 👈 as well.
+   Software Engineer. And I love to create 👉 <a href="https://dmsosa.github.io/the-chosen/">web content</a> 👈 as well.
 </p>
 <p align="center">
    <a href="https://github.com/DenverCoder1/readme-typing-svg">

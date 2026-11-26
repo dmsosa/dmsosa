@@ -3,12 +3,9 @@
 [![Readme Bagde](https://img.shields.io/badge/LANG-EN-FF0000)](https://github.com/dmsosa) [![Readme Badge](https://img.shields.io/badge/LANG-DE-blue)](https://github.com/dmsosa/dmsosa/blob/main/README.de.md)
 <!-- BADGES SECTION -->
 <p align="center">
-[![LinkedIn Profile](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&labelColor=2667d1&logoColor=white)](https://www.linkedin.com/in/durian-sosa-807147241/) 
-	[![Instagram Follow](https://img.shields.io/badge/INSTAGRAM-FOLLOW-deeppink?style=for-the-badge&logo=instagram&labelColor=b00c4e&logoColor=white)](https://www.instagram.com/duvi_official/?hl=de) 
-	[![Devdotto Follow](https://custom-icon-badges.demolab.com/badge/DEV-FOLLOW.svg?color=%23eb34cf&labelColor=%2334ebd&style=for-the-badge&logo=devdotto&label=WATCH&logoColor=white)](https://dev.to/dmsosa) [![Github Follow](https://custom-icon-badges.demolab.com/github/followers/dmsosa?color=gray&labelColor=black&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/dmsosa?tab=followers) 
-	[![Github Stars](https://custom-icon-badges.demolab.com/github/stars/dmsosa?color=048037&style=for-the-badge&labelColor=2c9959&logo=star)](https://github.com/dmsosa?tab=repositories&sort=stargazers)
 	
-</p>
+[![LinkedIn Profile](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&labelColor=2667d1&logoColor=white)](https://www.linkedin.com/in/durian-sosa-807147241/)
+[![Instagram Follow](https://img.shields.io/badge/INSTAGRAM-FOLLOW-deeppink?style=for-the-badge&logo=instagram&labelColor=b00c4e&logoColor=white)](https://www.instagram.com/duvi_official/?hl=de)[![Devdotto Follow](https://custom-icon-badges.demolab.com/badge/DEV-FOLLOW.svg?color=%23eb34cf&labelColor=%2334ebd&style=for-the-badge&logo=devdotto&label=WATCH&logoColor=white)](https://dev.to/dmsosa)[![Github Follow](https://custom-icon-badges.demolab.com/github/followers/dmsosa?color=gray&labelColor=black&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/dmsosa?tab=followers)[![Github Stars](https://custom-icon-badges.demolab.com/github/stars/dmsosa?color=048037&style=for-the-badge&labelColor=2c9959&logo=star)](https://github.com/dmsosa?tab=repositories&sort=stargazers)</p>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
